@@ -6,7 +6,7 @@ I'm a Master student at the University of Florida in the Mechanical and Aerospac
 <!-- Find more here: https://catiaspsilva.github.io/ -->
 
 Watch my contribution graph get eaten by the snake :snake:
-![snake gif](https://github.com/yilinzhangAndy/yilinzhangAndy/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/catiaspsilva/catiaspsilva/blob/output/github-contribution-grid-snake.gif)
 
 
 - 📫 How to reach me: 
