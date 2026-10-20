@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-I'm a Ph.D Candidate at the University of Florida in the Mechanical and Aerospace Engineering Department. 
+I'm a Ph.D. student in the Department of Mechanical and Aerospace Engineering at the University of Florida.
 
 <!-- Find more here: https://catiaspsilva.github.io/ -->
 
